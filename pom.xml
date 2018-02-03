@@ -12,7 +12,7 @@
 		<build.number>SNAPSHOT</build.number>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<easyb.version>1.4</easyb.version>
-		<cobertura.version>2.6</cobertura.version>
+		<cobertura.version>2.7</cobertura.version>
 		<target.version>1.8</target.version>
 		<source.version>1.8</source.version>
 		<github.account>thiagotgo90</github.account>
